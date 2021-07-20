@@ -1,0 +1,1 @@
+(self.webpackChunkmy_ui=self.webpackChunkmy_ui||[]).push([[317],{7913:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/my-ui/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/my-ui/blog/tags/hello"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkmy_ui=self.webpackChunkmy_ui||[]).push([[55],{2738:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/my-ui/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
