@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/hugoshiroma/my-ui/issues"
   },
-  "homepage": "https://github.com/hugoshiroma/my-ui#readme",
+  "homepage": "https://hugoshiroma.github.io/my-ui/",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
